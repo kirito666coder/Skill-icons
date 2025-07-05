@@ -1,6 +1,8 @@
-# Skill Icons
+<h1 align="center">Skill Icons</h1>
 
-A simple SVG icon generator for programming languages and technologies.
+<p align="center">A simple SVG icon generator for programming languages and technologies.</p>
+
+---
 
 ## 🤝 Help Needed!
 
@@ -12,7 +14,38 @@ This project needs your help! I'm looking for contributors to:
 - Help with the API functionality
 - Test and report bugs
 
-# Icons
+##
+
+<h1 align="center">Icons</h1>
+
+## 🚀 How to Use
+
+You can generate custom icon combinations using our API! Here's an example:
+
+<img src="https://skill-icons-snowy.vercel.app/api/icons?i=vite,npm,pnpm,docker,webpack,clerk&perline=15&t=dark" />
+
+### 📝 API Parameters
+
+**Icon Selection (`i=`):**
+- Use the icon names from the list below
+- Separate multiple icons with commas
+- Example: `i=vite,npm,pnpm,docker,webpack,clerk`
+
+**Icons Per Line (`perline=`):**
+- Control how many icons appear in each row
+- Default: 15, Maximum: 15
+- Example: `perline=5` for 5 icons per line
+
+**Theme (`t=`):**
+- Change the theme of themed icons (if available)
+- Default: `dark`
+- Example: `t=light` for light theme
+- Note: Only affects icons that have multiple theme versions
+
+### 🔗 API URL Format
+```
+https://skill-icons-snowy.vercel.app/api/icons?i=icon1,icon2,icon3&perline=number&t=theme
+```
 
 Here's a list of all the icons currently supported. Feel free to open an issue to suggest icons to add!
 
