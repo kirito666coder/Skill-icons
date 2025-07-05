@@ -22,7 +22,7 @@ This project needs your help! I'm looking for contributors to:
 
 You can generate custom icon combinations using our API! Here's an example:
 
-<img src="https://skill-icons-snowy.vercel.app/api/icons?i=vite,npm,pnpm,docker,webpack,clerk&perline=15&t=dark" />
+<img src="https://skill-icons-snowy.vercel.app/api/icons?i=js,py,ts,node,docker,chatgpt,github&perline=15&t=dark" />
 
 ### 📝 API Parameters
 
