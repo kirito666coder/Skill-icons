@@ -16,7 +16,7 @@ const themedIcons = {
 
 };
 
-export default function Handler(req, res) {
+export default function handler(req, res) {
     const { i, t = "dark", perline = 5 } = req.query;
 
     if (!i) {
