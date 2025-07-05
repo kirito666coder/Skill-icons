@@ -15,7 +15,7 @@ const fullnames = {
 const themedIcons = {};
 
 export default function handler(req, res) {
-  const { i, t = 'dark', perline = 5 } = req.query;
+  const { i, t = 'dark', perline = 15 } = req.query;
 
   if (!i) {
     return res.status(400).send('missing ?i=icons');
@@ -36,7 +36,7 @@ export default function handler(req, res) {
 
   const ICON_BOX = 300;
   const SCALE = 48 / (ICON_BOX - 44);
-  const maxPerLine = Math.min(15, parseInt(perline) || 5);
+  const maxPerLine = Math.min(15, parseInt(perline) || 15);
 
   const width = Math.min(maxPerLine * ICON_BOX, iconNames.length * ICON_BOX) - 44;
   const height = Math.ceil(iconNames.length / maxPerLine) * ICON_BOX - 44;
