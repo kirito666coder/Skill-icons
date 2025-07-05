@@ -1,0 +1,21 @@
+{
+  "name": "skill-icons",
+  "version": "1.0.0",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kirito666coder/Skill-icons.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/kirito666coder/Skill-icons/issues"
+  },
+  "homepage": "https://github.com/kirito666coder/Skill-icons#readme",
+  "description": ""
+}
