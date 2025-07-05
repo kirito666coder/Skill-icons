@@ -1,14 +1,21 @@
-<svg xmlns="http://www.w3.org/2000/svg" x="0px" y="0px" width="100" height="100" viewBox="0 0 48 48">
+<svg xmlns="http://www.w3.org/2000/svg" width="256" height="256" viewBox="0 0 48 48">
+  <!-- Black background with rounded corners -->
+  <rect width="48" height="48" fill="#000000" rx="4" />
 
-  <rect width="256" height="256" fill="#000000" rx="4" />
-
-  <polygon fill="#bcbcbc" points="23.974,4 6.97,14 6.97,34 23.998,44 40.97,34 40.97,14"></polygon>
-  <line x1="7.97" x2="23.579" y1="33" y2="24.454" fill="none" stroke="#bcbcbc" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" stroke-width="2"></line>
-  <line x1="23.972" x2="23.966" y1="5.903" y2="15.864" fill="none" stroke="#bcbcbc" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" stroke-width="2"></line>
-  <line x1="39.97" x2="32.97" y1="33" y2="29" fill="none" stroke="#bcbcbc" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" stroke-width="2"></line>
-  <polygon fill="#757575" points="23.974,4 6.97,14 6.97,34 23.97,24"></polygon>
-  <polygon fill="#424242" points="23.981,14 40.97,14 40.97,34 23.971,24"></polygon>
-  <polygon fill="#616161" fill-rule="evenodd" points="40.97,14 23.966,17 23.974,4" clip-rule="evenodd"></polygon>
-  <polygon fill="#616161" fill-rule="evenodd" points="6.97,14 23.981,16.881 23.966,24 6.97,34" clip-rule="evenodd"></polygon>
-  <polygon fill="#ededed" points="6.97,14 23.97,24 23.998,44 40.97,14"></polygon>
+  <!-- Main 3D box structure -->
+  <polygon fill="#bcbcbc" points="23.974,4 6.97,14 6.97,34 23.998,44 40.97,34 40.97,14"/>
+  
+  <!-- Connecting lines -->
+  <line x1="7.97" y1="33" x2="23.579" y2="24.454" stroke="#bcbcbc" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
+  <line x1="23.972" y1="5.903" x2="23.966" y2="15.864" stroke="#bcbcbc" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
+  <line x1="39.97" y1="33" x2="32.97" y2="29" stroke="#bcbcbc" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
+  
+  <!-- Shading for depth -->
+  <polygon fill="#757575" points="23.974,4 6.97,14 6.97,34 23.97,24"/>
+  <polygon fill="#424242" points="23.981,14 40.97,14 40.97,34 23.971,24"/>
+  <polygon fill="#616161" points="40.97,14 23.966,17 23.974,4"/>
+  <polygon fill="#616161" points="6.97,14 23.981,16.881 23.966,24 6.97,34"/>
+  
+  <!-- Top face highlight -->
+  <polygon fill="#ededed" points="6.97,14 23.97,24 23.998,44 40.97,14"/>
 </svg>
