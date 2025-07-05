@@ -1,0 +1,24 @@
+<svg width="256" height="256" viewBox="0 0 256 256" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="bgGradient" x1="0" y1="0" x2="256" y2="256" gradientUnits="userSpaceOnUse">
+      <stop offset="0%" stop-color="#CB3837"/>
+      <stop offset="100%" stop-color="#F5F5F5"/>
+    </linearGradient>
+    <clipPath id="clip0_33_588">
+      <rect width="256" height="256" rx="40" fill="white"/>
+    </clipPath>
+    <clipPath id="clip1_33_588">
+      <rect width="210" height="80" fill="white" transform="translate(23 88)"/>
+    </clipPath>
+  </defs>
+
+  <g clip-path="url(#clip0_33_588)">
+    <rect width="256" height="256" rx="40" fill="url(#bgGradient)"/>
+    <g clip-path="url(#clip1_33_588)">
+      <path d="M23 88H233V156.571H128V168H81.3333V156.571H23V88ZM34.6667 145.143H58V110.857H69.6667V145.143H81.3333V99.4286H34.6667V145.143ZM93 99.4286V156.571H116.333V145.143H139.667V99.4286H93ZM116.333 110.857H128V133.714H116.333V110.857ZM151.333 99.4286V145.143H174.667V110.857H186.333V145.143H198V110.857H209.667V145.143H221.333V99.4286H151.333Z" fill="#CB3837"/>
+      <path d="M34.6667 145.143H58V110.857H69.6667V145.143H81.3334V99.4286H34.6667V145.143Z" fill="white"/>
+      <path d="M93 99.4286V156.571H116.333V145.143H139.667V99.4286H93ZM128 133.714H116.333V110.857H128V133.714Z" fill="white"/>
+      <path d="M151.333 99.4286V145.143H174.667V110.857H186.333V145.143H198V110.857H209.667V145.143H221.333V99.4286H151.333Z" fill="white"/>
+    </g>
+  </g>
+</svg>

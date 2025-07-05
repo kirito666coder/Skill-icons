@@ -1,0 +1,28 @@
+<svg width="256" height="256" viewBox="0 0 256 256" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+   
+    <linearGradient id="bgGradient" x1="0" y1="0" x2="256" y2="256" gradientUnits="userSpaceOnUse">
+      <stop offset="0%" stop-color="#FFE08A"/> 
+      <stop offset="100%" stop-color="#B0B0B0"/> 
+    </linearGradient>
+    <clipPath id="clip0_33_608">
+      <rect width="256" height="256" fill="white"/>
+    </clipPath>
+  </defs>
+
+  <g clip-path="url(#clip0_33_608)">
+    <rect width="256" height="256" rx="40" fill="url(#bgGradient)"/>
+    
+    <rect x="40" y="41" width="55" height="55" fill="#F9AD00"/>
+    <rect x="100" y="41" width="55" height="55" fill="#F9AD00"/>
+    <rect x="160" y="41" width="55" height="55" fill="#F9AD00"/>
+    <rect x="160" y="101" width="55" height="55" fill="#F9AD00"/>
+    
+    <rect x="160" y="161" width="55" height="55" fill="#4E4E4E"/>
+    <rect x="100" y="161" width="55" height="55" fill="#4E4E4E"/>
+    <rect x="40" y="161" width="55" height="55" fill="#4E4E4E"/>
+    
+    <rect x="40" y="101" width="55" height="55" fill="#242938"/>
+    <rect x="100" y="101" width="55" height="55" fill="#4E4E4E"/>
+  </g>
+</svg>
