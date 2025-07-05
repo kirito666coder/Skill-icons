@@ -99,3 +99,35 @@ Here's a list of all the icons currently supported. Feel free to open an issue t
 | 46 | `webpack` | <img src="public/icons/webpack.svg" width="48"> |
 | 47 | `windows` | <img src="public/icons/windows.svg" width="48"> |
 
+---
+
+<h1 align="center">⚠️ DANGEROUS LICENSE ⚠️</h1>
+
+<p align="center"><strong>BEWARE: This code might blow your CPU and cause more danger stuff! 😈</strong></p>
+
+## 🚨 WARNING
+
+This project comes with a **SUPER DANGEROUS** license that allows you to:
+
+- 💥 **Blow up your computer** (not recommended)
+- 🔥 **Set your CPU on fire** (please don't)
+- 💀 **Summon digital demons** (at your own risk)
+- 🎭 **Steal this code** (actually, please do!)
+- 🚀 **Use it for evil** (or good, we don't judge)
+- 🎪 **Make it viral** (spread the chaos!)
+
+## 📜 THE ACTUAL LICENSE
+
+```
+MIT License - Do whatever you want!
+But remember: With great power comes great responsibility...
+and possibly a fried motherboard! 🔥
+```
+
+**Disclaimer**: No computers were actually harmed in the making of this project. 
+But we're not responsible if you try to run it on a potato! 🥔
+
+---
+
+**⭐ Star this repo if you survived reading this license! ⭐**
+
