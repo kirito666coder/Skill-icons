@@ -117,16 +117,17 @@ Here's a list of all the icons currently supported. Feel free to open an issue t
 | 36 | `redux` | <img src="public/icons/redux.svg" width="48"> |
 | 37 | `shadcn` | <img src="public/icons/shadcn.svg" width="48"> |
 | 38 | `socketio` | <img src="public/icons/soketio.svg" width="48"> |
-| 39 | `tailwind` | <img src="public/icons/tailwindcss.svg" width="48"> |
-| 40 | `threejs` | <img src="public/icons/threejs.svg" width="48"> |
-| 41 | `ts` | <img src="public/icons/typescript.svg" width="48"> |
-| 42 | `ubuntu` | <img src="public/icons/Ubuntu.svg" width="48"> |
-| 43 | `vercel` | <img src="public/icons/vercel.svg" width="48"> |
-| 44 | `vite` | <img src="public/icons/vite.svg" width="48"> |
-| 45 | `vscode` | <img src="public/icons/vsCode.svg" width="48"> |
-| 46 | `webhooks` | <img src="public/icons/webhooks.svg" width="48"> |
-| 47 | `webpack` | <img src="public/icons/webpack.svg" width="48"> |
-| 48 | `windows` | <img src="public/icons/windows.svg" width="48"> |
+| 39 | `skiperui` | <img src="public/icons/skiperui.svg" width="48"> |
+| 40 | `tailwind` | <img src="public/icons/tailwindcss.svg" width="48"> |
+| 41 | `threejs` | <img src="public/icons/threejs.svg" width="48"> |
+| 42 | `ts` | <img src="public/icons/typescript.svg" width="48"> |
+| 43 | `ubuntu` | <img src="public/icons/Ubuntu.svg" width="48"> |
+| 44 | `vercel` | <img src="public/icons/vercel.svg" width="48"> |
+| 45 | `vite` | <img src="public/icons/vite.svg" width="48"> |
+| 46 | `vscode` | <img src="public/icons/vsCode.svg" width="48"> |
+| 47 | `webhooks` | <img src="public/icons/webhooks.svg" width="48"> |
+| 48 | `webpack` | <img src="public/icons/webpack.svg" width="48"> |
+| 49 | `windows` | <img src="public/icons/windows.svg" width="48"> |
 
 ---
 
