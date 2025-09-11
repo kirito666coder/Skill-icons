@@ -82,9 +82,9 @@ Here's a list of all the icons currently supported. Feel free to open an issue t
 | 1 | `angular` | <img src="public/icons/angular.svg" width="48"> |
 | 2 | `aws` | <img src="public/icons/aws.svg" width="48"> |
 | 3 | `chatgpt` | <img src="public/icons/chatgpt.svg" width="48"> |
-| 4 | `clerk` | <img src="public/icons/clerk.svg" width="48"> |
-| 5 | `cloudinary` | <img src="public/icons/cloudinary.svg" width="48"> |
-| 6 | `chakraui` | <img src="public/icons/chakraui.svg" width="48"> |
+| 4 | `chakraui` | <img src="public/icons/chakraui.svg" width="48"> |
+| 5 | `clerk` | <img src="public/icons/clerk.svg" width="48"> |
+| 6 | `cloudinary` | <img src="public/icons/cloudinary.svg" width="48"> |
 | 7 | `css` | <img src="public/icons/css3.svg" width="48"> |
 | 8 | `cursorai` | <img src="public/icons/cursorai.svg" width="48"> |
 | 9 | `django` | <img src="public/icons/django.svg" width="48"> |
@@ -101,60 +101,66 @@ Here's a list of all the icons currently supported. Feel free to open an issue t
 | 20 | `js` | <img src="public/icons/javascript.svg" width="48"> |
 | 21 | `jwt` | <img src="public/icons/jwt.svg" width="48"> |
 | 22 | `linux` | <img src="public/icons/Linux.svg" width="48"> |
-| 23 | `mantineui` | <img src="public/icons/mantineui.svg" width="48"> |
-| 24 | `materialui` | <img src="public/icons/materialUI.svg" width="48"> |
-| 25 | `mongo` | <img src="public/icons/mongodb.svg" width="48"> |
-| 26 | `mysql` | <img src="public/icons/mysql.svg" width="48"> |
-| 27 | `nextjs` | <img src="public/icons/nextjs.svg" width="48"> |
-| 28 | `node` | <img src="public/icons/nodejs.svg" width="48"> |
-| 29 | `npm` | <img src="public/icons/npm.svg" width="48"> |
-| 30 | `oauth` | <img src="public/icons/OAuth.svg" width="48"> |
-| 31 | `passportjs` | <img src="public/icons/passportjs.svg" width="48"> |
-| 32 | `pieces` | <img src="public/icons/pieces.svg" width="48"> |
-| 33 | `pnpm` | <img src="public/icons/pnpm.svg" width="48"> |
-| 34 | `postman` | <img src="public/icons/postman.svg" width="48"> |
-| 35 | `py` | <img src="public/icons/python.svg" width="48"> |
-| 36 | `react` | <img src="public/icons/react.svg" width="48"> |
-| 37 | `reactrouter` | <img src="public/icons/reactrouter.svg" width="48"> |
-| 38 | `redis` | <img src="public/icons/redis.svg" width="48"> |
-| 39 | `redux` | <img src="public/icons/redux.svg" width="48"> |
-| 40 | `shadcn` | <img src="public/icons/shadcn.svg" width="48"> |
-| 41 | `socketio` | <img src="public/icons/soketio.svg" width="48"> |
-| 42 | `skiperui` | <img src="public/icons/skiperui.svg" width="48"> |
-| 43 | `tailwind` | <img src="public/icons/tailwindcss.svg" width="48"> |
-| 44 | `threejs` | <img src="public/icons/threejs.svg" width="48"> |
-| 45 | `ts` | <img src="public/icons/typescript.svg" width="48"> |
-| 46 | `ubuntu` | <img src="public/icons/Ubuntu.svg" width="48"> |
-| 47 | `vercel` | <img src="public/icons/vercel.svg" width="48"> |
-| 48 | `vite` | <img src="public/icons/vite.svg" width="48"> |
-| 49 | `vscode` | <img src="public/icons/vsCode.svg" width="48"> |
-| 50 | `webhooks` | <img src="public/icons/webhooks.svg" width="48"> |
-| 51 | `webpack` | <img src="public/icons/webpack.svg" width="48"> |
-| 52 | `windows` | <img src="public/icons/windows.svg" width="48"> |
+| 23 | `magicui` | <img src="public/icons/magicui.svg" width="48"> |
+| 24 | `mantineui` | <img src="public/icons/mantineui.svg" width="48"> |
+| 25 | `materialui` | <img src="public/icons/materialUI.svg" width="48"> |
+| 26 | `mongo` | <img src="public/icons/mongodb.svg" width="48"> |
+| 27 | `mysql` | <img src="public/icons/mysql.svg" width="48"> |
+| 28 | `netlify` | <img src="public/icons/netlify.svg" width="48"> |
+| 29 | `nextjs` | <img src="public/icons/nextjs.svg" width="48"> |
+| 30 | `node` | <img src="public/icons/nodejs.svg" width="48"> |
+| 31 | `npm` | <img src="public/icons/npm.svg" width="48"> |
+| 32 | `oauth` | <img src="public/icons/OAuth.svg" width="48"> |
+| 33 | `passportjs` | <img src="public/icons/passportjs.svg" width="48"> |
+| 34 | `pieces` | <img src="public/icons/pieces.svg" width="48"> |
+| 35 | `pnpm` | <img src="public/icons/pnpm.svg" width="48"> |
+| 36 | `postman` | <img src="public/icons/postman.svg" width="48"> |
+| 37 | `prismic` | <img src="public/icons/prismic.svg" width="48"> |
+| 38 | `py` | <img src="public/icons/python.svg" width="48"> |
+| 39 | `react` | <img src="public/icons/react.svg" width="48"> |
+| 40 | `reactrouter` | <img src="public/icons/reactrouter.svg" width="48"> |
+| 41 | `redis` | <img src="public/icons/redis.svg" width="48"> |
+| 42 | `redux` | <img src="public/icons/redux.svg" width="48"> |
+| 43 | `shadcn` | <img src="public/icons/shadcn.svg" width="48"> |
+| 44 | `socketio` | <img src="public/icons/soketio.svg" width="48"> |
+| 45 | `skiperui` | <img src="public/icons/skiperui.svg" width="48"> |
+| 46 | `tailwind` | <img src="public/icons/tailwindcss.svg" width="48"> |
+| 47 | `threejs` | <img src="public/icons/threejs.svg" width="48"> |
+| 48 | `ts` | <img src="public/icons/typescript.svg" width="48"> |
+| 49 | `ubuntu` | <img src="public/icons/Ubuntu.svg" width="48"> |
+| 50 | `vercel` | <img src="public/icons/vercel.svg" width="48"> |
+| 51 | `vite` | <img src="public/icons/vite.svg" width="48"> |
+| 52 | `vscode` | <img src="public/icons/vsCode.svg" width="48"> |
+| 53 | `webhooks` | <img src="public/icons/webhooks.svg" width="48"> |
+| 54 | `webpack` | <img src="public/icons/webpack.svg" width="48"> |
+| 55 | `windows` | <img src="public/icons/windows.svg" width="48"> |
 
 ---
 
-<h1 align="center">⚠️ DANGEROUS LICENSE ⚠️</h1>
+<h1 align="center">⚠️ EXTREMELY DANGEROUS LICENSE ⚠️</h1>
 
-<p align="center"><strong>BEWARE: This code might blow your CPU and cause more danger stuff! 😈</strong></p>
+<p align="center"><strong>Proceed only if you have a fire extinguisher, surge protector, and a will. 😈</strong></p>
 
-## 🚨 WARNING
+## ☣️ TERMS OF MAYHEM
 
-This project comes with a **SUPER DANGEROUS** license that allows you to:
+By using this repository, you agree that you may:
 
-- 💥 **Blow up your computer** (not recommended)
-- 🔥 **Set your CPU on fire** (please don't)
-- 💀 **Summon digital demons** (at your own risk)
-- 🎭 **Steal this code** (actually, please do!)
-- 🚀 **Use it for evil** (or good, we don't judge)
-- 🎪 **Make it viral** (spread the chaos!)
+- 💥 **Detonate your productivity**
+- 🔥 **Thermally challenge your CPU** (it will scream)
+- 🧟 **Awaken ancient CLI spirits** with a single typo
+- 🕵️ **Copy, fork, remix, and weaponize** this code (ethically, we hope)
+- 🌀 **Summon infinite side-projects** you will never finish
+- 📡 **Broadcast chaos** to unsuspecting teammates and CI pipelines
+
+If any of the above happens, you agree it's hilarious and entirely your fault.
 
 ## 📜 THE ACTUAL LICENSE
 
 ```
 MIT License - Do whatever you want!
 But remember: With great power comes great responsibility...
-and possibly a fried motherboard! 🔥
+and possibly a fried motherboard! 
+No warranty. No promises. No refunds. Batteries not included.
 ```
 
 **Disclaimer**: No computers were actually harmed in the making of this project. 
@@ -163,4 +169,3 @@ But we're not responsible if you try to run it on a potato! 🥔
 ---
 
 **⭐ Star this repo if you survived reading this license! ⭐**
-
