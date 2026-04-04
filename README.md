@@ -23,6 +23,7 @@ This project needs your help! I'm looking for contributors to:
 You can generate custom icon combinations using your own API! Here's an example:
 
 **Example icons used above:**
+
 <p align="center">
 <img src="public/icons/javascript.svg" width="32" alt="JavaScript">
 <img src="public/icons/python.svg" width="32" alt="Python">
@@ -36,22 +37,26 @@ You can generate custom icon combinations using your own API! Here's an example:
 ### 📝 API Parameters
 
 **Icon Selection (`i=`):**
+
 - Use the icon names from the list below
 - Separate multiple icons with commas
 - Example: `i=vite,npm,pnpm,docker,webpack,clerk`
 
 **Icons Per Line (`perline=`):**
+
 - Control how many icons appear in each row
 - Default: 15, Maximum: 15
 - Example: `perline=5` for 5 icons per line
 
 **Theme (`t=`):**
+
 - Change the theme of themed icons (if available)
 - Default: `dark`
 - Example: `t=light` for light theme
 - Note: Only affects icons that have multiple theme versions
 
 ### 🔗 API URL Format
+
 ```
 https://your-domain.vercel.app/api/icons?i=icon1,icon2,icon3&perline=number&t=theme
 ```
@@ -77,76 +82,78 @@ To use this project, simply:
 
 Here's a list of all the icons currently supported. Feel free to open an issue to suggest icons to add!
 
-| # | Icon ID | Icon |
-|:---:|:-------:|:----:|
-| 1 | `androidstudio` | <img src="public/icons/androidstudio.svg" width="48"> |
-| 2 | `angular` | <img src="public/icons/angular.svg" width="48"> |
-| 3 | `authjs` | <img src="public/icons/authjs.svg" width="48"> |
-| 4 | `aws` | <img src="public/icons/aws.svg" width="48"> |
-| 5 | `chakraui` | <img src="public/icons/chakraui.svg" width="48"> |
-| 6 | `chatgpt` | <img src="public/icons/chatgpt.svg" width="48"> |
-| 7 | `claude` | <img src="public/icons/claude.svg" width="48"> |
-| 8 | `clerk` | <img src="public/icons/clerk.svg" width="48"> |
-| 9 | `cloudinary` | <img src="public/icons/cloudinary.svg" width="48"> |
-| 10 | `css` | <img src="public/icons/css3.svg" width="48"> |
-| 11 | `cursorai` | <img src="public/icons/cursorai.svg" width="48"> |
-| 12 | `django` | <img src="public/icons/django.svg" width="48"> |
-| 13 | `docker` | <img src="public/icons/docker.svg" width="48"> |
-| 14 | `expo` | <img src="public/icons/expo.svg" width="48"> |
-| 15 | `express` | <img src="public/icons/express.svg" width="48"> |
-| 16 | `figma` | <img src="public/icons/figma.svg" width="48"> |
-| 17 | `framer` | <img src="public/icons/framermotion.svg" width="48"> |
-| 18 | `git` | <img src="public/icons/git.svg" width="48"> |
-| 19 | `github` | <img src="public/icons/github.svg" width="48"> |
-| 20 | `gsap` | <img src="public/icons/gsap.svg" width="48"> |
-| 21 | `heroui` | <img src="public/icons/heroui.svg" width="48"> |
-| 22 | `html` | <img src="public/icons/html5.svg" width="48"> |
-| 23 | `jest` | <img src="public/icons/jest.svg" width="48"> |
-| 24 | `jenkins` | <img src="public/icons/jenkins.svg" width="48"> |
-| 25 | `js` | <img src="public/icons/javascript.svg" width="48"> |
-| 26 | `jwt` | <img src="public/icons/jwt.svg" width="48"> |
-| 27 | `kubernetes / k8s` | <img src="public/icons/kubernetes.svg" width="48"> |
-| 28 | `linux` | <img src="public/icons/Linux.svg" width="48"> |
-| 29 | `magicui` | <img src="public/icons/magicui.svg" width="48"> |
-| 30 | `mantineui` | <img src="public/icons/mantineui.svg" width="48"> |
-| 31 | `materialui` | <img src="public/icons/materialUI.svg" width="48"> |
-| 32 | `mongo` | <img src="public/icons/mongodb.svg" width="48"> |
-| 33 | `mysql` | <img src="public/icons/mysql.svg" width="48"> |
-| 34 | `nativewind` | <img src="public/icons/nativewind.svg" width="48"> |
-| 35 | `netlify` | <img src="public/icons/netlify.svg" width="48"> |
-| 36 | `nextjs` | <img src="public/icons/nextjs.svg" width="48"> |
-| 37 | `node` | <img src="public/icons/nodejs.svg" width="48"> |
-| 38 | `npm` | <img src="public/icons/npm.svg" width="48"> |
-| 39 | `oauth` | <img src="public/icons/OAuth.svg" width="48"> |
-| 40 | `passportjs` | <img src="public/icons/passportjs.svg" width="48"> |
-| 41 | `pieces` | <img src="public/icons/pieces.svg" width="48"> |
-| 42 | `pnpm` | <img src="public/icons/pnpm.svg" width="48"> |
-| 43 | `postman` | <img src="public/icons/postman.svg" width="48"> |
-| 44 | `prismic` | <img src="public/icons/prismic.svg" width="48"> |
-| 45 | `py` | <img src="public/icons/python.svg" width="48"> |
-| 46 | `react` | <img src="public/icons/react.svg" width="48"> |
-| 47 | `reactnative` | <img src="public/icons/reactnative.svg" width="48"> |
-| 48 | `reactrouter` | <img src="public/icons/reactrouter.svg" width="48"> |
-| 49 | `redis` | <img src="public/icons/redis.svg" width="48"> |
-| 50 | `redux` | <img src="public/icons/redux.svg" width="48"> |
-| 51 | `sanity` | <img src="public/icons/sanity.svg" width="48"> |
-| 52 | `shadcn` | <img src="public/icons/shadcn.svg" width="48"> |
-| 53 | `skiperui` | <img src="public/icons/skiperui.svg" width="48"> |
-| 54 | `socketio` | <img src="public/icons/soketio.svg" width="48"> |
-| 55 | `stripe` | <img src="public/icons/stripe.svg" width="48"> |
-| 56 | `tailwind` | <img src="public/icons/tailwindcss.svg" width="48"> |
-| 57 | `threejs` | <img src="public/icons/threejs.svg" width="48"> |
-| 58 | `ts` | <img src="public/icons/typescript.svg" width="48"> |
-| 59 | `ubuntu` | <img src="public/icons/Ubuntu.svg" width="48"> |
-| 60 | `vercel` | <img src="public/icons/vercel.svg" width="48"> |
-| 61 | `vite` | <img src="public/icons/vite.svg" width="48"> |
-| 62 | `vscode` | <img src="public/icons/vsCode.svg" width="48"> |
-| 63 | `webhooks` | <img src="public/icons/webhooks.svg" width="48"> |
-| 64 | `webpack` | <img src="public/icons/webpack.svg" width="48"> |
-| 65 | `windows` | <img src="public/icons/windows.svg" width="48"> |
-| 66 | `zod` | <img src="public/icons/zod.svg" width="48"> |
-| 67 | `zustand` | <img src="public/icons/zustand.svg" width="48"> |
-
+|  #  |      Icon ID       |                         Icon                          |
+| :-: | :----------------: | :---------------------------------------------------: |
+|  1  |  `androidstudio`   | <img src="public/icons/androidstudio.svg" width="48"> |
+|  2  |     `angular`      |    <img src="public/icons/angular.svg" width="48">    |
+|  3  |   `antigravity`    |  <img src="public/icons/antigravity.svg" width="48">  |
+|  4  |      `authjs`      |    <img src="public/icons/authjs.svg" width="48">     |
+|  5  |       `aws`        |      <img src="public/icons/aws.svg" width="48">      |
+|  6  |     `chakraui`     |   <img src="public/icons/chakraui.svg" width="48">    |
+|  7  |     `chatgpt`      |    <img src="public/icons/chatgpt.svg" width="48">    |
+|  8  |      `claude`      |    <img src="public/icons/claude.svg" width="48">     |
+|  9  |      `clerk`       |     <img src="public/icons/clerk.svg" width="48">     |
+| 10  |    `cloudinary`    |  <img src="public/icons/cloudinary.svg" width="48">   |
+| 11  |       `css`        |     <img src="public/icons/css3.svg" width="48">      |
+| 12  |     `cursorai`     |   <img src="public/icons/cursorai.svg" width="48">    |
+| 13  |      `django`      |    <img src="public/icons/django.svg" width="48">     |
+| 14  |      `docker`      |    <img src="public/icons/docker.svg" width="48">     |
+| 15  |       `expo`       |     <img src="public/icons/expo.svg" width="48">      |
+| 16  |     `express`      |    <img src="public/icons/express.svg" width="48">    |
+| 17  |      `figma`       |     <img src="public/icons/figma.svg" width="48">     |
+| 18  |      `framer`      | <img src="public/icons/framermotion.svg" width="48">  |
+| 19  |      `gemini`      |    <img src="public/icons/gemini.svg" width="48">     |
+| 20  |       `git`        |      <img src="public/icons/git.svg" width="48">      |
+| 21  |      `github`      |    <img src="public/icons/github.svg" width="48">     |
+| 22  |       `gsap`       |     <img src="public/icons/gsap.svg" width="48">      |
+| 23  |      `heroui`      |    <img src="public/icons/heroui.svg" width="48">     |
+| 24  |       `html`       |     <img src="public/icons/html5.svg" width="48">     |
+| 25  |     `inngest`      |    <img src="public/icons/inngest.svg" width="48">    |
+| 26  |     `jenkins`      |    <img src="public/icons/jenkins.svg" width="48">    |
+| 27  |       `jest`       |     <img src="public/icons/jest.svg" width="48">      |
+| 28  |        `js`        |  <img src="public/icons/javascript.svg" width="48">   |
+| 29  |       `jwt`        |      <img src="public/icons/jwt.svg" width="48">      |
+| 30  | `kubernetes / k8s` |  <img src="public/icons/kubernetes.svg" width="48">   |
+| 31  |      `linux`       |     <img src="public/icons/Linux.svg" width="48">     |
+| 32  |     `magicui`      |    <img src="public/icons/magicui.svg" width="48">    |
+| 33  |    `mantineui`     |   <img src="public/icons/mantineui.svg" width="48">   |
+| 34  |    `materialui`    |  <img src="public/icons/materialUI.svg" width="48">   |
+| 35  |      `mongo`       |    <img src="public/icons/mongodb.svg" width="48">    |
+| 36  |      `mysql`       |     <img src="public/icons/mysql.svg" width="48">     |
+| 37  |    `nativewind`    |  <img src="public/icons/nativewind.svg" width="48">   |
+| 38  |     `netlify`      |    <img src="public/icons/netlify.svg" width="48">    |
+| 39  |      `nextjs`      |    <img src="public/icons/nextjs.svg" width="48">     |
+| 40  |       `node`       |    <img src="public/icons/nodejs.svg" width="48">     |
+| 41  |       `npm`        |      <img src="public/icons/npm.svg" width="48">      |
+| 42  |      `oauth`       |     <img src="public/icons/OAuth.svg" width="48">     |
+| 43  |    `passportjs`    |  <img src="public/icons/passportjs.svg" width="48">   |
+| 44  |      `pieces`      |    <img src="public/icons/pieces.svg" width="48">     |
+| 45  |       `pnpm`       |     <img src="public/icons/pnpm.svg" width="48">      |
+| 46  |     `postman`      |    <img src="public/icons/postman.svg" width="48">    |
+| 47  |     `prismic`      |    <img src="public/icons/prismic.svg" width="48">    |
+| 48  |        `py`        |    <img src="public/icons/python.svg" width="48">     |
+| 49  |      `react`       |     <img src="public/icons/react.svg" width="48">     |
+| 50  |   `reactnative`    |  <img src="public/icons/reactnative.svg" width="48">  |
+| 51  |   `reactrouter`    |  <img src="public/icons/reactrouter.svg" width="48">  |
+| 52  |      `redis`       |     <img src="public/icons/redis.svg" width="48">     |
+| 53  |      `redux`       |     <img src="public/icons/redux.svg" width="48">     |
+| 54  |      `sanity`      |    <img src="public/icons/sanity.svg" width="48">     |
+| 55  |      `shadcn`      |    <img src="public/icons/shadcn.svg" width="48">     |
+| 56  |     `skiperui`     |   <img src="public/icons/skiperui.svg" width="48">    |
+| 57  |     `socketio`     |    <img src="public/icons/soketio.svg" width="48">    |
+| 58  |      `stripe`      |    <img src="public/icons/stripe.svg" width="48">     |
+| 59  |     `tailwind`     |  <img src="public/icons/tailwindcss.svg" width="48">  |
+| 60  |     `threejs`      |    <img src="public/icons/threejs.svg" width="48">    |
+| 61  |        `ts`        |  <img src="public/icons/typescript.svg" width="48">   |
+| 62  |      `ubuntu`      |    <img src="public/icons/Ubuntu.svg" width="48">     |
+| 63  |      `vercel`      |    <img src="public/icons/vercel.svg" width="48">     |
+| 64  |       `vite`       |     <img src="public/icons/vite.svg" width="48">      |
+| 65  |      `vscode`      |    <img src="public/icons/vsCode.svg" width="48">     |
+| 66  |     `webhooks`     |   <img src="public/icons/webhooks.svg" width="48">    |
+| 67  |     `webpack`      |    <img src="public/icons/webpack.svg" width="48">    |
+| 68  |     `windows`      |    <img src="public/icons/windows.svg" width="48">    |
+| 69  |       `zod`        |      <img src="public/icons/zod.svg" width="48">      |
+| 70  |     `zustand`      |    <img src="public/icons/zustand.svg" width="48">    |
 
 ---
 
@@ -172,13 +179,18 @@ If any of the above happens, you agree it's hilarious and entirely your fault.
 ```
 MIT License - Do whatever you want!
 But remember: With great power comes great responsibility...
-and possibly a fried motherboard! 
+and possibly a fried motherboard!
 No warranty. No promises. No refunds. Batteries not included.
 ```
 
-**Disclaimer**: No computers were actually harmed in the making of this project. 
+**Disclaimer**: No computers were actually harmed in the making of this project.
 But we're not responsible if you try to run it on a potato! 🥔
 
 ---
 
 **⭐ Star this repo if you survived reading this license! ⭐**
+
+
+
+
+
