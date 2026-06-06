@@ -4,7 +4,9 @@
   "main": "index.js",
   "type": "module",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+  "build": "tsc --noEmit",
+  "serve": "vercel dev"
+   
   },
   "repository": {
     "type": "git",
@@ -17,5 +19,12 @@
     "url": "https://github.com/kirito666coder/Skill-icons/issues"
   },
   "homepage": "https://github.com/kirito666coder/Skill-icons#readme",
-  "description": ""
+  "description": "",
+  "devDependencies": {
+    "@types/node": "^25.9.2",
+    "typescript": "^6.0.3"
+  },
+  "dependencies": {
+    "@vercel/node": "^5.8.14"
+  }
 }
